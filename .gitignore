@@ -8,6 +8,11 @@
 .yarn/*
 ecosystem.config.js
 
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
 ############################
 # OS X
 ############################
